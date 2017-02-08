@@ -1,0 +1,19 @@
+{
+  "bindings": [
+    {
+      "name": "inputblob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "input/{blobname}.{blobextension}",
+      "connection": "input1_STORAGE"
+    },
+    {
+      "type": "eventHub",
+      "name": "outputEventHubMessage",
+      "path": "inputevent-hub",
+      "connection": "event-handling_TRIGGER",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

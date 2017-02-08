@@ -1,0 +1,13 @@
+{
+  "bindings": [
+    {
+      "type": "eventHubTrigger",
+      "name": "inputEventHubTrigger",
+      "direction": "in",
+      "path": "inputevent-hub",
+      "connection": "event-handling_TRIGGER",
+      "consumerGroup": "processing-2"
+    }
+  ],
+  "disabled": false
+}

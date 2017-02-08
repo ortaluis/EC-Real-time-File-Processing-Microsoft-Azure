@@ -1,0 +1,19 @@
+Input Storage 1:
+Storage Account: input1
+Access Key: vT8pmrTcxMqAPrORmRJZ9KXUtjpyA9UCoK8vl4i2cN0SJhhWo1wFGYl2eLWKnmmt9j24FNHu/QXPDLHWHBj0tg==
+Service Endpoint: https://input1.blob.core.windows.net/
+
+Input Storage 2:
+Storage Account: input2
+Access Key: 1d5jr16EfBPqoDxqgu60r+mUybEqvM4Q3Z5OeOeWbCEJdde1WWuqsqZtKbVRZYhOSPHAP7qygdmzjL2lZ1Zpgw==
+Service Endpoint: https://input2.blob.core.windows.net/
+
+Output Storage 1:
+Storage Account: outputstorage1
+Access Key: yexIKC7A3Kn3MCEeyZYRlIvMl2WKyzIxG+nr0ytUuGc87fW4OPTo1CtrOELpSpRmbC1ko0oey0eoWhb1kuVVsQ==
+Service Endpoint: https://outputstorage1.blob.core.windows.net/
+
+Output Storage 2:
+Storage Account: outputstorage2
+Access Key: wyySqWiXWFZUKW84/HbJ/39VarIAj+SNuMg93h6hpX/Kp4m6aGLdaxdN4l8vAnABvayoM4aMgDzQdGuqtmAPIA==
+Service Endpoint: https://outputstorage2.blob.core.windows.net/
