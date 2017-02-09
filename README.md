@@ -1,10 +1,7 @@
-# EC-Real-time-File-Processing-Microsoft-Azure
-The Real-time File Processing Serverless Reference Architecture is a general-purpose, eventdriven,
-parallel data processing architecture. It is designed for workloads that need more than one
-data derivative of an object. It demonstrates a simple markdown conversion application where Lambda
-functions are used to convert markdown files to HTML and plain text.
+# EC Real time File Processing with Microsoft Azure Cloud
+The Real-time File Processing Serverless Reference Architecture is a general-purpose, eventdriven, parallel data processing architecture. It is designed for workloads that need more than one data derivative of an object. It demonstrates a simple markdown conversion application where Lambda functions are used to convert markdown files to HTML and plain text.
 
-Regarding the described decisions, the following architectural design is developed.
+The design of the equivalent architecture on the Microsoft Azure Cloud Platform is described below:
 
 1. Input files are stored in Azure Blob Storage.
 
