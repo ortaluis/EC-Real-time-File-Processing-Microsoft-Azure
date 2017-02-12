@@ -26,4 +26,4 @@ Regarding the described decisions, the following architectural design is develop
 
 Demo: https://youtu.be/MtMvkEMBzdM?t=2m34s
 
-Documentation: This documentation can be found as [Documentation.pdf](../blob/master/Documentation.pdf) file.
+Documentation: This documentation can be found as [Documentation.pdf](../master/Documentation.pdf) file.
