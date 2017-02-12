@@ -24,6 +24,6 @@ Regarding the described decisions, the following architectural design is develop
 
 **Azure Storage Account Access**: To access an Azure Storage Account, the storage account’s name and the referring access key(s) have to be used. The referring access information for the input and output storages of the authors’ implementation can be found in the StorageAccessKeys.txt file.
 
-Demo: https://youtu.be/MtMvkEMBzdM?t=2m34s
+**Demo**: https://youtu.be/MtMvkEMBzdM?t=2m34s
 
-Documentation: This documentation can be found as [Documentation.pdf](../master/Documentation.pdf) file.
+**Documentation**: This documentation can be found as [Documentation](../master/Documentation.pdf) file.
